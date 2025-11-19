@@ -72,5 +72,3 @@ The purpose of this project is to understand why customers abandon their carts a
 * Streamline mobile checkout flow.
 * Highlight trust signals (reviews, guarantees) on product pages.
 
-For questions or contributions, contact the project owner.
-
