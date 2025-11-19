@@ -1,5 +1,4 @@
-# Cart-Abandonment-Personal
-# Cart Abandonment Analysis — README
+# Cart-Abandonment
 
 ## Project Overview
 
